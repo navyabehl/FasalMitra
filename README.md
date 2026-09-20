@@ -3,9 +3,8 @@
 Built for the **1M1B AI for Sustainability Virtual Internship** (in collaboration with IBM SkillsBuild & AICTE)
 
 **SDG Alignment:** SDG 2 (Zero Hunger) — primary · SDG 12 (Responsible Consumption & Production), SDG 1 (No Poverty) — secondary
-# 🌱 FasalMitra
 
-[🚀 **Live Demo**]([https://fasalmitra.streamlit.app/])
+[🚀 **Try the Live App**](https://fasalmitra.streamlit.app/)
 
 ## What it does
 
